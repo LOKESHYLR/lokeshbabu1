@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+body{
+
+    background-color:rgba(120,180,220,0.9);
+}
+h1 i{
+   
+    text-align:center;
+    color:rgba(250,220,220,0.9);
+    text-decoration: solid;
+    text-overflow: inherit;
+    text-transform: uppercase;
+    text-shadow:yellow;
+    text-decoration-line:unset;
+    background-position: 20%;
+    background-color:rgba(220,218,100,0.9)
+
+}
+
+section .Imgscroll{
+
+    image-orientation: flip;
+    shape-image-threshold: calc(0.4);
+    border-image-outset: 3vh;
+    border-style: groove;
+    border-top-left-radius: 25% 40% 25px;
+    border: width 75px;
+    width: fit-content;
+}
+
+.btn{
+
+    text-decoration:underline;
+    background-color: rgba(220,220,220,0.9);
+    text-shadow: 1vh;
+    text-size-adjust:inherit;
+    text-decoration-color: salmon;
+    text-decoration-line: underline;
+    text-underline-position: auto;
+    background-position: center;
+    backface-visibility: visible;
+}
